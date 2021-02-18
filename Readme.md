@@ -12,5 +12,10 @@ I'm a full-stack developer based in Berlin.
 
 :gem:&nbsp;&nbsp;Core: JavaScript, Node.js, Express.js
 <br>:sparkles:&nbsp;&nbsp;React.js, Webpack, MongoDB
-<br>:art:&nbsp;&nbsp;CSS, Bootstrap, GreenSockJS
+<br>:art:&nbsp;&nbsp;CSS, Bootstrap, GreenSockJS 
 <br>:books:&nbsp;&nbsp;Focus in learning more about: Tailwind, GraphQL, Hugo, Next.js, Netlify, Vue.js, Python
+
+
+LinkedIn: https://www.linkedin.com/in/gonzalo-garc%C3%ADa-calcaterra/
+Jsfiddle: https://jsfiddle.net/gonzalogc
+E-mail: nouvellegon@gmail.com
