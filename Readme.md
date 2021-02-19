@@ -15,7 +15,12 @@ I'm a full-stack developer based in Berlin.
 <br>:art:&nbsp;&nbsp;CSS, Bootstrap, GreenSockJS 
 <br>:books:&nbsp;&nbsp;Focus in learning more about: Tailwind, GraphQL, Hugo, Next.js, Netlify, Vue.js, Python
 
+### Contact Info
 
  LinkedIn: https://www.linkedin.com/in/gonzalo-garc%C3%ADa-calcaterra/
 <br>Jsfiddle: https://jsfiddle.net/gonzalogc
 <br>E-mail: nouvellegon@gmail.com
+
+### My last Fiddles:
+https://jsfiddle.net/gonzalogc/215baeyf/57/
+https://jsfiddle.net/gonzalogc/4dr789fj/127/
