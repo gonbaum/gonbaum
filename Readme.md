@@ -13,7 +13,7 @@ I'm a full-stack developer based in Berlin.
 :gem:&nbsp;&nbsp;Core: JavaScript, Node.js, Express.js
 <br>:sparkles:&nbsp;&nbsp;React.js, Webpack, MongoDB
 <br>:art:&nbsp;&nbsp;CSS, Bootstrap, GreenSockJS 
-<br>:books:&nbsp;&nbsp;Focus in learning more about: React, Node.js, Tailwind, GraphQL, Hugo, Next.js, Netlify, Vue.js, Python
+<br>:books:&nbsp;&nbsp;Focus in learning more about: React, Node.js, GraphQL, Vue.js
 
 ### Contact Info
 
