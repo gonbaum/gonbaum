@@ -10,10 +10,10 @@ I'm a full-stack developer based in Berlin.
 
 ### My stack
 
-:gem:&nbsp;&nbsp;Core: JavaScript, Node.js, Express.js
-<br>:sparkles:&nbsp;&nbsp;React.js, Webpack, MongoDB
-<br>:art:&nbsp;&nbsp;CSS, Bootstrap, GreenSockJS 
-<br>:books:&nbsp;&nbsp;Focus in learning more about: React, Node.js, GraphQL, Vue.js
+:gem:&nbsp;&nbsp;Core: JavaScript, Python
+<br>:sparkles:&nbsp;&nbsp;React.js
+<br>:art:&nbsp;&nbsp;CSS, Bootstrap, MUI (V4) GreenSockJS 
+<br>:books:&nbsp;&nbsp;Focus in learning more about: React, Airflow, Apache Spark
 
 ### Contact Info
 
