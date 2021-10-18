@@ -12,7 +12,7 @@ I'm a full-stack developer based in Berlin.
 
 :gem:&nbsp;&nbsp;Core: JavaScript, Python
 <br>:sparkles:&nbsp;&nbsp;React.js
-<br>:art:&nbsp;&nbsp;CSS, Bootstrap, MUI (V4) GreenSockJS 
+<br>:art:&nbsp;&nbsp;CSS, Bootstrap, MUI (V4), GreenSockJS 
 <br>:books:&nbsp;&nbsp;Focus in learning more about: React, Airflow, Apache Spark
 
 ### Contact Info
