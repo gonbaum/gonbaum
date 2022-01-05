@@ -16,7 +16,7 @@ I'm a full-stack developer based in Berlin.
 <br>:books:&nbsp;&nbsp;Focus in learning more about: Software Architecture, Best Practices, DevOps
 <br>:books:&nbsp;&nbsp;Currently reading: <a href="https://books.google.com.ar/books/about/Designing_Data_Intensive_Applications.html?id=zFheDgAAQBAJ&source=kp_book_description&redir_esc=y">Designing Data Intensive Applications</a>
 
-### Visit my new <a href="https://baumhaus-garden-oiz5dv1u3-gonbaum.vercel.app/">digital garden</a>
+### Visit my new <a href="https://baumhaus-garden-dfjw0o5bd-gonbaum.vercel.app/">digital garden</a>
 
 ### Contact Info
 
