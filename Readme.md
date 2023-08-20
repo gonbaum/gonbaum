@@ -5,15 +5,15 @@ I'm a full-stack developer based in Berlin.
 ### Things I like
 
 :heart:&nbsp;&nbsp;Interested in deep work, egoless programming and development of meaningfull, positive and sustainable lifestyle patterns. I try to become a better developer and human being everyday.
-<br>:white_check_mark:&nbsp;&nbsp;Clean code, maintainability and testing
+<br>:white_check_mark:&nbsp;&nbsp;Clean code, maintainability, scalability and testing
 <br>:telescope:&nbsp;&nbsp; Keep learning, contributing to the community, rock climbing, reading, cooking, talking and making/sharing music.
 
 ### My stack
 
 :gem:&nbsp;&nbsp;Core: JavaScript, Python
-<br>:sparkles:&nbsp;&nbsp;Tools and frameworks I'm currently using: React.js, Node.js, Airflow, GCP, Docker, Next.js, Gitlab 
-<br>:art:&nbsp;&nbsp;CSS, MUI
-<br>:books:&nbsp;&nbsp;Focus in learning more about: Software Architecture, Best Practices, DevOps
+<br>:sparkles:&nbsp;&nbsp;Tools and frameworks I'm currently using: Node.js, React.js, Airflow, GCP, Docker, Next.js, Gitlab 
+<br>:art:&nbsp;&nbsp;CSS, MUI, Tailwing
+<br>:books:&nbsp;&nbsp;Focus in learning more about: Software Architecture, DevOps, Patterns
 <br>:books:&nbsp;&nbsp;Currently reading: <a href="https://books.google.com.ar/books/about/Designing_Data_Intensive_Applications.html?id=zFheDgAAQBAJ&source=kp_book_description&redir_esc=y">Designing Data Intensive Applications</a>
 
 ### Visit my new <a href="https://baumhaus-garden-gonbaum.vercel.app/">digital garden</a>
